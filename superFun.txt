@@ -1,0 +1,5 @@
+var naptime = true;
+
+if(naptime) {
+	console.log('yawn');
+}
